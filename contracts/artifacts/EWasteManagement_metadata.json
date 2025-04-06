@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/EWasteManagement.sol": "EWasteManagement"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/EWasteManagement.sol": {
+			"keccak256": "0xd28e182c59bee72998b1fe501c84e96369a59d67b522d89bb6ef6311d65baa19",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8cf198dedf795c7e87ecf0099cc6441b4bc3bf9dacb49713b262f347b761b19f",
+				"dweb:/ipfs/Qme9BmLTSK6bSVzpYN5v2FgR6TNK2cqKh3HTE8hnmHDN18"
+			]
+		}
+	},
+	"version": 1
+}
